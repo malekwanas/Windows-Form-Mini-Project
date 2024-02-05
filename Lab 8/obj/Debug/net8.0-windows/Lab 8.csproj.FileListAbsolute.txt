@@ -1,0 +1,34 @@
+G:\ITI\ITI-9 months\C#\Labs\Lab 8\Lab 8\Lab 8\bin\Debug\net8.0-windows\Lab 8.exe
+G:\ITI\ITI-9 months\C#\Labs\Lab 8\Lab 8\Lab 8\bin\Debug\net8.0-windows\Lab 8.deps.json
+G:\ITI\ITI-9 months\C#\Labs\Lab 8\Lab 8\Lab 8\bin\Debug\net8.0-windows\Lab 8.runtimeconfig.json
+G:\ITI\ITI-9 months\C#\Labs\Lab 8\Lab 8\Lab 8\bin\Debug\net8.0-windows\Lab 8.dll
+G:\ITI\ITI-9 months\C#\Labs\Lab 8\Lab 8\Lab 8\bin\Debug\net8.0-windows\Lab 8.pdb
+G:\ITI\ITI-9 months\C#\Labs\Lab 8\Lab 8\Lab 8\obj\Debug\net8.0-windows\Lab_8.Form1.resources
+G:\ITI\ITI-9 months\C#\Labs\Lab 8\Lab 8\Lab 8\obj\Debug\net8.0-windows\Lab 8.csproj.GenerateResource.cache
+G:\ITI\ITI-9 months\C#\Labs\Lab 8\Lab 8\Lab 8\obj\Debug\net8.0-windows\Lab 8.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI\ITI-9 months\C#\Labs\Lab 8\Lab 8\Lab 8\obj\Debug\net8.0-windows\Lab 8.AssemblyInfoInputs.cache
+G:\ITI\ITI-9 months\C#\Labs\Lab 8\Lab 8\Lab 8\obj\Debug\net8.0-windows\Lab 8.AssemblyInfo.cs
+G:\ITI\ITI-9 months\C#\Labs\Lab 8\Lab 8\Lab 8\obj\Debug\net8.0-windows\Lab 8.csproj.CoreCompileInputs.cache
+G:\ITI\ITI-9 months\C#\Labs\Lab 8\Lab 8\Lab 8\obj\Debug\net8.0-windows\Lab 8.dll
+G:\ITI\ITI-9 months\C#\Labs\Lab 8\Lab 8\Lab 8\obj\Debug\net8.0-windows\refint\Lab 8.dll
+G:\ITI\ITI-9 months\C#\Labs\Lab 8\Lab 8\Lab 8\obj\Debug\net8.0-windows\Lab 8.pdb
+G:\ITI\ITI-9 months\C#\Labs\Lab 8\Lab 8\Lab 8\obj\Debug\net8.0-windows\Lab 8.genruntimeconfig.cache
+G:\ITI\ITI-9 months\C#\Labs\Lab 8\Lab 8\Lab 8\obj\Debug\net8.0-windows\ref\Lab 8.dll
+G:\ITI\ITI-9 months\C#\Labs\Lab8\Lab 8\Lab 8\bin\Debug\net8.0-windows\Lab 8.exe
+G:\ITI\ITI-9 months\C#\Labs\Lab8\Lab 8\Lab 8\bin\Debug\net8.0-windows\Lab 8.deps.json
+G:\ITI\ITI-9 months\C#\Labs\Lab8\Lab 8\Lab 8\bin\Debug\net8.0-windows\Lab 8.runtimeconfig.json
+G:\ITI\ITI-9 months\C#\Labs\Lab8\Lab 8\Lab 8\bin\Debug\net8.0-windows\Lab 8.dll
+G:\ITI\ITI-9 months\C#\Labs\Lab8\Lab 8\Lab 8\bin\Debug\net8.0-windows\Lab 8.pdb
+G:\ITI\ITI-9 months\C#\Labs\Lab8\Lab 8\Lab 8\obj\Debug\net8.0-windows\Lab_8.Form1.resources
+G:\ITI\ITI-9 months\C#\Labs\Lab8\Lab 8\Lab 8\obj\Debug\net8.0-windows\Lab 8.csproj.GenerateResource.cache
+G:\ITI\ITI-9 months\C#\Labs\Lab8\Lab 8\Lab 8\obj\Debug\net8.0-windows\Lab 8.GeneratedMSBuildEditorConfig.editorconfig
+G:\ITI\ITI-9 months\C#\Labs\Lab8\Lab 8\Lab 8\obj\Debug\net8.0-windows\Lab 8.AssemblyInfoInputs.cache
+G:\ITI\ITI-9 months\C#\Labs\Lab8\Lab 8\Lab 8\obj\Debug\net8.0-windows\Lab 8.AssemblyInfo.cs
+G:\ITI\ITI-9 months\C#\Labs\Lab8\Lab 8\Lab 8\obj\Debug\net8.0-windows\Lab 8.csproj.CoreCompileInputs.cache
+G:\ITI\ITI-9 months\C#\Labs\Lab8\Lab 8\Lab 8\obj\Debug\net8.0-windows\Lab 8.dll
+G:\ITI\ITI-9 months\C#\Labs\Lab8\Lab 8\Lab 8\obj\Debug\net8.0-windows\refint\Lab 8.dll
+G:\ITI\ITI-9 months\C#\Labs\Lab8\Lab 8\Lab 8\obj\Debug\net8.0-windows\Lab 8.pdb
+G:\ITI\ITI-9 months\C#\Labs\Lab8\Lab 8\Lab 8\obj\Debug\net8.0-windows\Lab 8.genruntimeconfig.cache
+G:\ITI\ITI-9 months\C#\Labs\Lab8\Lab 8\Lab 8\obj\Debug\net8.0-windows\ref\Lab 8.dll
+G:\ITI\ITI-9 months\C#\Labs\Lab8\Lab 8\Lab 8\obj\Debug\net8.0-windows\Lab_8.Properties.Resources.resources
+G:\ITI\ITI-9 months\C#\Labs\Lab8\Lab 8\Lab 8\obj\Debug\net8.0-windows\Lab_8.Form2.resources
